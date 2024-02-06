@@ -6,7 +6,7 @@ name: Test123
 
 on:
   push:
-    branches: [ "master" ]
+    branches: [ "test" ]
   pull_request:
     branches: [ "master" ]
 
